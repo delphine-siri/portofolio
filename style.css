@@ -1,0 +1,31 @@
+body{
+    background-color: white;
+}
+.group1 {
+    margin-left: 180px;
+
+}
+.group2 {
+    text-align: center;
+
+}
+.group3 {
+    position: relative;
+    left: 100px;
+    width: 100px;
+    border: 3px solid black;
+    padding: 20px;
+    background-color: white(224, 226, 228);
+
+}
+.hero {
+    display: flex;
+}
+.group4 {
+    position: relative;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+}
